@@ -14,7 +14,8 @@ body {
     text-shadow: 0 0 1px black;
 }
 
-#clickMe{
+.home-btn{
     padding: 5px 10px;
     border-radius: 5px;
+    margin: 10px 5px;
 }
