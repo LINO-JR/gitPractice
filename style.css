@@ -31,3 +31,15 @@ body {
     margin: 0 auto;
 
 }
+
+nav{
+   text-align: start;
+   gap: 10px;
+}
+
+
+nav a{
+    text-decoration: none;
+    color: inherit;
+    text-shadow: inherit;
+}
