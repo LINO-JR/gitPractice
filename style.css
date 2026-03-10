@@ -12,10 +12,23 @@ body {
     height: 100vh;
     text-align: center;
     text-shadow: 0 0 1px black;
+
 }
 
 .home-btn{
     padding: 5px 10px;
     border-radius: 5px;
     margin: 10px 5px;
+    width: 100%;
+}
+
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    width: 300px;
+    margin: 0 auto;
+
 }

@@ -14,10 +14,6 @@ function clickMe(){
         click.textContent= "Click Me!"
         ifClicked = false;
     }
-
-    
-
-    // click.textContent= "You Clicked Me!"
 }
 
 function bg(){
