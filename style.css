@@ -46,3 +46,26 @@ nav a{
     margin: 0 10px;
 
 }
+.tbl-container{
+    border: 1px solid black;
+    text-align: start;
+}
+
+th, td{
+    padding: 10px 20px
+}
+
+th{
+    background-color: #374d7c;
+    color: #fff;
+}
+td{
+    background-color: #fdf289;
+    text-shadow: none;
+    color: #121212;
+}
+
+tfoot td{
+    background-color: #46edc8;
+    text-align: center;
+}
